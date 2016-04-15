@@ -1,13 +1,26 @@
 InstaMaterial
 =============
 
+### Updated
+
+Current source code contains UI elements from [Design Support Library](http://android-developers.blogspot.com/2015/05/android-design-support-library.html). If you still want to see how custom implementations of e.g. Floating Action Button or Navigation drawer work, just checkout this source code on tag [Post 8](https://github.com/frogermcs/InstaMaterial/tree/Post-8).
+
 Source code for implementation of Instagram with Material Design (based on Emmanuel Pacamalan's concept). 
 
 [INSTAGRAM with Material Design](https://www.youtube.com/watch?v=ojwdmgmdR_Q) concept video
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-InstaMaterial-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/1462)
+
+## Summary
+The summary of making of InstaMaterial project is available on blog:  [Instagram with Material Design concept is getting real](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real-the-summary/)
+
 ### Current build 
 
-The most recent debug .apk is available [here](https://ship.io/builds/64ee12e9-1f90-46e8-a38b-ffcfc319ca41/build_steps/hPPFFzgu/artifacts/app-debug.apk?build_access_token=18d378baf0e0219da) (temporary).
+The most recent app version is available [here](https://github.com/frogermcs/frogermcs.github.io/raw/master/files/10/InstaMaterial-release-1.0.1-2.apk)
+
+### Full showcase of application
+
+[![App showcase](http://img.youtube.com/vi/VpLP__Vupxw/0.jpg)](http://www.youtube.com/watch?v=VpLP__Vupxw)
 
 ## Blog posts
 [Getting started - opening the app](http://frogermcs.github.io/Instagram-with-Material-Design-concept-is-getting-real)
@@ -91,4 +104,27 @@ Implemented elements and effects:
 * Navigation Drawer
 * DrawerLayoutIstaller
 
-[![User profile](http://img.youtube.com/vi/rRYN1le1-ZM/0.jpg)](http://www.youtube.com/watch?v=rRYN1le1-ZM)
+[![Navigation Drawer](http://img.youtube.com/vi/rRYN1le1-ZM/0.jpg)](http://www.youtube.com/watch?v=rRYN1le1-ZM)
+
+---
+
+[Capturing photo](http://frogermcs.github.io/InstaMaterial-concept-part-8-capturing-photo/)
+
+Implemented elements and effects:
+
+* Camera preview
+* Capturing photo
+* Circular reveal
+
+[![Capturing photo](http://img.youtube.com/vi/0w3lGJIISTo/0.jpg)](http://www.youtube.com/watch?v=0w3lGJIISTo)
+
+---
+
+[Publishing photo](http://frogermcs.github.io/InstaMaterial-concept-part-9-photo-publishing/)
+
+Implemented elements and effects:
+
+* Custom view drawing
+* Intent flags
+
+[![Publishing photo](http://img.youtube.com/vi/YgvE3cl34ps/0.jpg)](http://www.youtube.com/watch?v=YgvE3cl34ps)
